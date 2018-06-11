@@ -1,0 +1,24 @@
+body
+{
+	font-family: Arial;
+	
+	max-width: 750px;
+	line-height: 1.4;
+	padding: 1em;
+	text-align: justify;
+	margin: 2em auto;
+	color: #454545;
+}
+
+span.wrong
+{
+	color:red;
+	text-decoration: underline;
+}
+
+
+span.sb
+{
+    cursor: not-allowed;
+    color: blue;
+}
